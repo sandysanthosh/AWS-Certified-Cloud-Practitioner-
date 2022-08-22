@@ -2,10 +2,10 @@
 
 
 
-####EC2 Jekins:
+#### EC2 Jekins:
 
 
-####VPC:
+#### VPC:
 
  connection to EC2 Instance
 
